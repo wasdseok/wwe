@@ -39,14 +39,7 @@
 </p>
 
 
-#### Connect with me:
 
-
-<br />
-<br />
-[instagram]: 
-[linkedin]: 
-[email]:
 
 
 ![Snake animation](https://github.com/samfreitasxs/samfreitasxs/blob/output/github-contribution-grid-snake.svg)
